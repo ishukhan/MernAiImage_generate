@@ -1,12 +1,12 @@
 {
+  "engines": {
+    "node": ">=14 <15"
+  },
   "name": "backend",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "index.js",
-  "engines": {
-    "node": "^14.17.5"
-  },
   "scripts": {
     "start": "nodemon index.js"
   },
