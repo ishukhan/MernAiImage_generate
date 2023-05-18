@@ -46,7 +46,7 @@
 
 View the project 🎉
 
-- [Vercel](https://ishuai.vercel.app)
+- [https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white](https://ishuai.vercel.app)
 
 ### Built With
 
