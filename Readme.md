@@ -84,3 +84,5 @@ Project Link: [https://github.com/ishukhan/MernAiImage_generate](https://github.
 ## Acknowledgments
 
 - [Thank you to Javascript Mastery for the tutorial help!](https://www.jsmastery.pro/)
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
